@@ -39,7 +39,7 @@ public class Box
         Console.WriteLine($"Surface Area - {surfArea:f2}");
         //return SurfArea;
     }
-    public void LateralArea()//(decimal length, decimal width, decimal height)
+    public void LateralArea()
     {
         decimal latArea = 2 * this.length * this.height + 2 * this.width * this.height;
         Console.WriteLine($"Lateral Surface Area - {latArea:f2}");
