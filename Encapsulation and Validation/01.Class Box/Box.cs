@@ -33,7 +33,7 @@ public class Box
         set { this.height = value; }
     }
 
-    public void SurfaceArea()//(decimal length, decimal width, decimal height)
+    public void SurfaceArea()
     {
         decimal surfArea = 2 * this.length * this.width + 2 * this.length * this.height + 2 * this.width * this.height;
         Console.WriteLine($"Surface Area - {surfArea:f2}");
