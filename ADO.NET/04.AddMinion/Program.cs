@@ -15,8 +15,7 @@ public class Program
 
         string villain = villainInput[1];
 
-        var connection = new SqlConnection(
-            "Server = ;Database = MinionsDB;Integrated Security = ");
+        var connection = new SqlConnection("");
         connection.Open();
 
         using (connection)
