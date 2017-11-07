@@ -6,7 +6,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        var connection = new SqlConnection("Server=.;Database=minionsDB;Integrated Security = true");
+        var connection = new SqlConnection("Server=;Database=minionsDB;Integrated Security ");
         connection.Open();
 
         using (connection)
