@@ -8,7 +8,7 @@ public class Program
     {
         var inputId = int.Parse(Console.ReadLine());
 
-        var connection = new SqlConnection("Server;Database=MinionsDB;Integrated Security ");
+        var connection = new SqlConnection("");
         connection.Open();
         using (connection)
         {
