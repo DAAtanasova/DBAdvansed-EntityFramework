@@ -11,7 +11,7 @@ public class Program
         var inputId = int.Parse(Console.ReadLine());
 
         var connection = new SqlConnection(
-            "Server=.;Database = MinionsDB;Integrated Security = true");
+            "Server=;Database = MinionsDB;Integrated Security = ");
         connection.Open();
         using (connection)
         {
