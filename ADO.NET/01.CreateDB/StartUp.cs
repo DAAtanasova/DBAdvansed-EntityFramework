@@ -10,8 +10,6 @@ namespace _01.CreateDatabase
             
             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder
             {
-                ["Data Source"] = ,
-                ["Integrated Security"] =
             };
 
             SqlConnection connection = new SqlConnection(builder.ToString());
@@ -29,7 +27,7 @@ namespace _01.CreateDatabase
                 }
             }
 
-            builder["Initial catalog"] = "MinionsDB";
+            builder[""] = "";
             connection = new SqlConnection(builder.ToString());
             connection.Open();
             using (connection)
