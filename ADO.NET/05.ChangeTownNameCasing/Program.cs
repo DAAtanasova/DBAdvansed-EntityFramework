@@ -9,8 +9,7 @@ namespace _05.ChangeTownNameCasing
         static void Main(string[] args)
         {
             var input = Console.ReadLine();
-            var connection = new SqlConnection(
-                "Server=;Database=MinionsDB;Integrated Security =");
+            var connection = new SqlConnection("");
             connection.Open();
 
             using (connection)
