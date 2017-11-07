@@ -7,8 +7,7 @@ using System.Linq;
     {
         static void Main()
         {
-            var connection = new SqlConnection(
-    "Server = ;Database=MinionsDB;Integrated Security = ");
+            var connection = new SqlConnection("");
             connection.Open();
             using (connection)
             {
