@@ -10,8 +10,8 @@ namespace _01.CreateDatabase
             
             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder
             {
-                ["Data Source"] = ".",
-                ["Integrated Security"] = true
+                ["Data Source"] = ,
+                ["Integrated Security"] =
             };
 
             SqlConnection connection = new SqlConnection(builder.ToString());
