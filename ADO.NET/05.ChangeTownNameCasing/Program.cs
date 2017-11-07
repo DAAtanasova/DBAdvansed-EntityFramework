@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 
@@ -10,7 +10,7 @@ namespace _05.ChangeTownNameCasing
         {
             var input = Console.ReadLine();
             var connection = new SqlConnection(
-                "Server=.;Database=MinionsDB;Integrated Security = true");
+                "Server=;Database=MinionsDB;Integrated Security =");
             connection.Open();
 
             using (connection)
