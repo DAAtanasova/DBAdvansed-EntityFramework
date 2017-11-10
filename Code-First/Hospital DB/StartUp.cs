@@ -8,20 +8,6 @@
     {
         static void Main()
         {
-            //var db = new HospitalDbContext();
-            ////db.Database.EnsureCreated();
-            //using (db)
-            //{
-            //    var patient = new Patient()
-            //    {
-            //        FirstName = "Pesho",
-            //        LastName = "Petrov"
-            //    };
-            //    db.Patients.Add(patient);
-            //    db.SaveChanges();
-
-            //}
-
         }
     }
 }
