@@ -1,0 +1,11 @@
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.deps.json
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.dll
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.pdb
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\bin\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\bin\Debug\netcoreapp2.0\Configuration.pdb
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.AssemblyInfo.cs
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.dll
+C:\Users\user\Documents\VS Projects\Nov13_EntityRelation_Exercise_Football\P03_ FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_ FootballBetting.Data.pdb
