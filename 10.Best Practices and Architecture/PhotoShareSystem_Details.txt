@@ -1,0 +1,37 @@
+Commands:
+
+•RegisterUser <username> <password> <repeat-password> <email>
+
+•Login <username> <password>
+
+•Logout
+
+•AddTown <town Name> <country Name>
+
+•ModifyUser <username> <property> <new value>
+
+   1. ModifyUser <username> Password <NewPassword>
+
+   2.ModifyUser <username> BornTown <newBornTownName>
+
+   3.ModifyUser <username> CurrentTown <newCurrentTownName>
+
+•DeleteUser <username>
+
+•AddTag <tag>
+
+•CreateAlbum <username> <albumTitle> <BgColor> <tag1> <tag2>...<tagN>
+
+•AddTagTo <album> <tag>
+
+•AddFriend <username1> <username2>
+
+•AcceptFriend <username1> <username2>
+
+•ListFriends <username>
+
+•ShareAlbum <albumId> <username> <permission> 
+
+•UploadPicture <albumName> <pictureTitle> <pictureFilePath>
+
+•Exit

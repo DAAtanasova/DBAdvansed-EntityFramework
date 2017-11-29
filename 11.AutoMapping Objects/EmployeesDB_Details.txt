@@ -1,0 +1,17 @@
+Commands:
+
+• AddEmployee <firstName> <lastName> <salary> –  adds a new Employee to the database
+
+• SetBirthday <employeeId> <date: "dd-MM-yyyy"> – sets the birthday of the employee to the given date
+
+• SetAddress <employeeId> <address> –  sets the address of the employee to the given string
+
+• EmployeeInfo <employeeId> – prints on the console the information for an employee
+
+• EmployeePersonalInfo <employeeId> – prints ALL the information for an employee 
+
+• SetManager <employeeId> <managerId> – sets the second employee to be a manager of the first employee
+
+• ManagerInfo <employeeId> – prints on the console information about a manager 
+
+• Exit – closes the application

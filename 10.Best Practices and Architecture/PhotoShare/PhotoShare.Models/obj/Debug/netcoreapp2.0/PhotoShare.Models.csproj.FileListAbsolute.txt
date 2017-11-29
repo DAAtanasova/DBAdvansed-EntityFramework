@@ -1,0 +1,9 @@
+C:\Users\user\Documents\VS Projects\Nov23_BestPracticesAndArchitecture_E\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.deps.json
+C:\Users\user\Documents\VS Projects\Nov23_BestPracticesAndArchitecture_E\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\user\Documents\VS Projects\Nov23_BestPracticesAndArchitecture_E\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\user\Documents\VS Projects\Nov23_BestPracticesAndArchitecture_E\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\VS Projects\Nov23_BestPracticesAndArchitecture_E\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VS Projects\Nov23_BestPracticesAndArchitecture_E\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VS Projects\Nov23_BestPracticesAndArchitecture_E\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfo.cs
+C:\Users\user\Documents\VS Projects\Nov23_BestPracticesAndArchitecture_E\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\user\Documents\VS Projects\Nov23_BestPracticesAndArchitecture_E\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.pdb
