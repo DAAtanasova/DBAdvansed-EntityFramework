@@ -1,0 +1,9 @@
+C:\Users\user\Documents\VS Projects\Nov30_ExternalFrmatProcessing_Exercise\ProductsShop\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.deps.json
+C:\Users\user\Documents\VS Projects\Nov30_ExternalFrmatProcessing_Exercise\ProductsShop\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+C:\Users\user\Documents\VS Projects\Nov30_ExternalFrmatProcessing_Exercise\ProductsShop\ProductsShop.Models\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+C:\Users\user\Documents\VS Projects\Nov30_ExternalFrmatProcessing_Exercise\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VS Projects\Nov30_ExternalFrmatProcessing_Exercise\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VS Projects\Nov30_ExternalFrmatProcessing_Exercise\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.AssemblyInfo.cs
+C:\Users\user\Documents\VS Projects\Nov30_ExternalFrmatProcessing_Exercise\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.dll
+C:\Users\user\Documents\VS Projects\Nov30_ExternalFrmatProcessing_Exercise\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+C:\Users\user\Documents\VS Projects\Nov30_ExternalFrmatProcessing_Exercise\ProductsShop\ProductsShop.Models\obj\Debug\netcoreapp2.0\ProductsShop.Models.csprojResolveAssemblyReference.cache

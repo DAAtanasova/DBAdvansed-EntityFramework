@@ -1,0 +1,26 @@
+ProductsShop methods - You can fing JSON Processing methods and XML Processing methods:
+
+• ResetDatabase() - creating database
+
+JSON:
+• ImportUsersInDB(), ImportCategoriesInDB(), ImportsProductsInDB() and SetCategoriesToProducts() - methods which import data from json file into the Database
+
+• ProductsInRange - Export all products in specified price range: 500 to 1000 to JSON
+
+• SoldProducts - Export all users who have at least 1 sold product to JSON with their names, sold products and buyer
+
+• CategoriesByProducts - Export all categories to JSON with their name, number of products, average price of those products and total price sum of bought products
+
+• UsersAndProducts - Export all users who have at least 1 sold product to JSON with their users count, names, sold products and sold products count
+
+XML:
+•ImportXxmlUsers(), ImportXmlCategories(), ImportXmlProducts(), SetCategoriesToProductsXml() - import data from xml file into the Database
+
+• XmlProductsInRange - Export all products in specified price range: 1000 to 2000 to Xml
+
+• XmlSoldProducts - Export all users who have at least 1 sold product to Xml with their names and sold products
+
+• XmlCategoriesByProducts - Export all categories to Xml with their name, number of products, average price of those products and total price sum of bought products
+
+• XmlUsersAndProducts - Export all users who have at least 1 sold product to xml with their users count, names, sold products and sold products count
+

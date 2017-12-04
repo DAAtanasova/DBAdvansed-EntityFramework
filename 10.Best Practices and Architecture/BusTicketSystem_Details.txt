@@ -1,0 +1,11 @@
+Commands:
+
+• print-info <Bus Station ID> - print information for trips for a given bus station.Print a list of arrivals and departures buses for given bus station id 
+
+• buy-ticket <customer ID> <Trip ID> <Price> <Seat> - buy ticket for given customer, trip, ticket price and seat
+
+• publish-review <Customer ID> <Grade> <Bus Company Name> <Content> - publish review for bus company from cutomer 
+
+• print-reviews <Bus Company ID> - print a list of reviews for a given bus company
+
+• exit
