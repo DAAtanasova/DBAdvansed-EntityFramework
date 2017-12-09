@@ -1,0 +1,31 @@
+Commands:
+
+• RegisterUser <username> <password> <repeat-password> <firstName> <lastName> <age> <gender> - Registers a new user
+
+• Login <username> <password> - Logs a user into the system and keep a reference to it until the “Logout” command is called
+
+• Logout
+
+• DeleteUser - Deletes currently logged in user and then logs out
+
+• CreateEvent <name> <description> <startDate> <endDate> - Creates an event (currently logged user is it’s creator)
+
+• CreateTeam <name> <acronym> <description> - Creates a team (currently logged user is it’s creator). Description is optional.
+
+• InviteToTeam <teamName> <username> - Sends an invite to the specified user to join given team. If the user is actually the creator of the team – add him/her directly!
+
+• AcceptInvite <teamName> - Checks current user’s active invites and accepts the one from the team specified.
+
+• DeclineInvite <teamName> - Checks current user’s active invites and declines the one from the team specified
+
+• KickMember <teamName> <username> - Removes specified user member from given team. Only the creator of the team can kick other members
+
+• Disband <teamName> - Deletes given team
+
+• AddTeamTo <eventName> <teamName> - Adds given team for event specified. If there are more than one events with same name pick the latest start date
+
+• ShowEvent <eventName> - Shows details for given event
+
+• ShowTeam <teamName> - Show details about given team
+
+• Exit

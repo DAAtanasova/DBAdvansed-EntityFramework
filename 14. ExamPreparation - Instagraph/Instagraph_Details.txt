@@ -1,0 +1,5 @@
+ This is database application using Entity Framework Core using Code First approach. Here is domain models and methods for manipulationg the data.
+ 
+ - Creating Database
+ - Data Import
+ - Data Export

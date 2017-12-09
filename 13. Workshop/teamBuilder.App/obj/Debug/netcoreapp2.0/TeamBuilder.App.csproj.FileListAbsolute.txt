@@ -1,0 +1,15 @@
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.deps.json
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.runtimeconfig.json
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.runtimeconfig.dev.json
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.dll
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.pdb
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.Data.dll
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.Models.dll
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.Data.pdb
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.Models.pdb
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.AssemblyInfo.cs
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.dll
+C:\Users\user\Documents\VS Projects\Dec01_Workshop\teamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.pdb
